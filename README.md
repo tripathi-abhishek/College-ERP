@@ -76,8 +76,8 @@ The admin page is used to modify all tables such as Students, Teachers, Departme
 
 ### Admin Page
 
-![alt text](https://imgur.com/sDvDc9N.png)
+![alt text](https://i.imgur.com/D4yjzGh.jpg)
 
-![alt text](https://imgur.com/tMKWx6f.png)
+![alt text](https://i.imgur.com/y1MYco1.jpg)
 
-![alt text](https://imgur.com/PvCsNeB.png)
+![alt text](https://i.imgur.com/77IuKio.jpg)
